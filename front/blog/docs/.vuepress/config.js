@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/KokoTa_Home/',
   title: "KokoTa's Blog",
   description: 'Just playing around',
   themeConfig: {
